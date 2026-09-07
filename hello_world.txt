@@ -1,1 +1,1 @@
-This is the new learning material I created during the Odin Project
+This is my newest porject i did through kali linux wsl in my windows 11 machine
